@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms I learned
+Algorithms I learned.
