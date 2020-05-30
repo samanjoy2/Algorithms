@@ -26,7 +26,7 @@ class Sieve {
     }
 }
 
-public class SieveofEratosthenes {
+public class Main {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
